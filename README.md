@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magnusjyrkkanen
-- 🌱 I’m currently learning AI and RPA. I created this profile mostly for learning new things and revisiting some old things.
-- 🏢 In the future I would like to work with data, AI, RPA, or game development.
+- 🌱 I’m currently learning game development, AI and RPA. I created this profile mostly for learning new things and revisiting some old things.
+- 🏢 In the future I would like to work with data, AI, RPA, game development, or some combination of those.
 - 📫 You can reach me here or in LinkedIn, Instagram, or Twitter.
 
 <!---
